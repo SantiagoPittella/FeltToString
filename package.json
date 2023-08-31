@@ -2,7 +2,7 @@
   "name": "FtS",
   "displayName": "field-to-string",
   "description": "Converts a Field Element into a string",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.81.0"
   },
