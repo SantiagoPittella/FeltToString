@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.81.0"
   },
-  "icon": "https://github.com/SantiagoPittella/FeltToString/blob/main/assets/picture.jpeg?raw=true",
+  "icon": "assets/picture.jpeg",
   "categories": [
     "Other"
   ],
