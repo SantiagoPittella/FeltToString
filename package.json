@@ -2,7 +2,7 @@
   "name": "FtS",
   "displayName": "field-to-string",
   "description": "Converts a Field Element into a string",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -45,5 +45,8 @@
     "webpack-cli": "^5.1.4",
     "@vscode/test-electron": "^2.3.4"
   },
-  "publisher": "SantiagoPittella"
+  "publisher": "SantiagoPittella",
+  "repository": {
+    "url": "https://github.com/SantiagoPittella/FeltToString"
+  }
 }

@@ -9,9 +9,11 @@ Convert your Field Element into a String!
 
 Paste a number, it can be in base 10 or 16 with '0x' preffix.
 
-![demo](assets/demo.gif)
+![demo](https://github.com/SantiagoPittella/FeltToString/blob/main/assets/demo.gif)
 
 You'll see the result in bottom right of the screen:
 
-![result](assets/result.gif)
+![result](https://github.com/SantiagoPittella/FeltToString/blob/main/assets/result.gif)
 
+Contributions can be made to:
+https://github.com/SantiagoPittella/FeltToString
