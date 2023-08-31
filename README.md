@@ -13,7 +13,7 @@ Paste a number, it can be in base 10 or 16 with '0x' preffix.
 
 You'll see the result in bottom right of the screen:
 
-![result](https://github.com/SantiagoPittella/FeltToString/blob/main/assets/demo.gif?raw=true)
+![result](https://github.com/SantiagoPittella/FeltToString/blob/main/assets/result.gif?raw=true)
 
 Contributions can be made to:
 https://github.com/SantiagoPittella/FeltToString
