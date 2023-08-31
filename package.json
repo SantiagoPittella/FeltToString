@@ -1,11 +1,12 @@
 {
   "name": "FtS",
-  "displayName": "field-to-string",
+  "displayName": "Felt to String",
   "description": "Converts a Field Element into a string",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.81.0"
   },
+  "icon": "https://github.com/SantiagoPittella/FeltToString/blob/main/assets/picture.jpeg?raw=true",
   "categories": [
     "Other"
   ],
