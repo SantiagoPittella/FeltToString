@@ -1,4 +1,4 @@
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/SantiagoPittella.FtS.svg) [![GitHub](https://img.shields.io/github/stars/SantiagoPittella/FeltToString.svg)](https://github.com/SantiagoPittella/FeltToString) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](http://opensource.org/licenses/MIT)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/SantiagoPittella.FtS.svg)](https://marketplace.visualstudio.com/items?itemName=SantiagoPittella.FtS) [![GitHub](https://img.shields.io/github/stars/SantiagoPittella/FeltToString.svg)](https://github.com/SantiagoPittella/FeltToString) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](http://opensource.org/licenses/MIT)
 
 # Felt to String
 

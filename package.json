@@ -2,7 +2,7 @@
   "name": "FtS",
   "displayName": "Felt to String",
   "description": "Converts a Field Element into a string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.81.0"
   },
